@@ -8,7 +8,7 @@ web site
 ## 管理员模块
 可以实现添加图书，修改图书信息，删除图书，且支持多行删除功能，还具有书号查询，书名模糊查询等功能
 初始管理员账户名为：admin，密码为：1
-#English edition
+# English edition
 This is a library management system based on c#, which is divided into two modules: user and administrator
 ## User module
 The user module can realize the functions of borrowing and returning books, and can see the specific date and quantity of borrowing books
