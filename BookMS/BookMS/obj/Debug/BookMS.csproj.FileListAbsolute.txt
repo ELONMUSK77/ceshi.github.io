@@ -1,0 +1,17 @@
+E:\BookMS\BookMS\obj\Debug\BookMS.csprojAssemblyReference.cache
+E:\BookMS\BookMS\obj\Debug\BookMS.Properties.Resources.resources
+E:\BookMS\BookMS\obj\Debug\BookMS.csproj.GenerateResource.cache
+E:\BookMS\BookMS\obj\Debug\BookMS.csproj.CoreCompileInputs.cache
+E:\BookMS\BookMS\bin\Debug\BookMS.exe.config
+E:\BookMS\BookMS\bin\Debug\BookMS.exe
+E:\BookMS\BookMS\bin\Debug\BookMS.pdb
+E:\BookMS\BookMS\obj\Debug\BookMS.exe
+E:\BookMS\BookMS\obj\Debug\BookMS.pdb
+E:\BookMS\BookMS\obj\Debug\BookMS.login.resources
+E:\BookMS\BookMS\obj\Debug\BookMS.admin2.resources
+E:\BookMS\BookMS\obj\Debug\BookMS.admin2_1.resources
+E:\BookMS\BookMS\obj\Debug\BookMS.admin2_2.resources
+E:\BookMS\BookMS\obj\Debug\BookMS.admin1.resources
+E:\BookMS\BookMS\obj\Debug\BookMS.user1.resources
+E:\BookMS\BookMS\obj\Debug\BookMS.user2.resources
+E:\BookMS\BookMS\obj\Debug\BookMS.user3.resources
