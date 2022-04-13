@@ -1,7 +1,7 @@
 # ceshi.github.io
 web site
 # Chinese Version
-这是一个基于C#的图书管理系统，该系统分为用户和管理员两个模块
+这是一个基于C#的图书管理系统，该系统分为用户和管理员两个模块,开发工具为 visual studio 2022 和 SQL SerVer 2012.
 ## 用户模块
 用户模块可以实现借书，还书功能，且可以看到借书的具体日期及数量
 在此操作系统中初始用户账户名为：1001，密码为：1
@@ -9,7 +9,7 @@ web site
 可以实现添加图书，修改图书信息，删除图书，且支持多行删除功能，还具有书号查询，书名模糊查询等功能
 初始管理员账户名为：admin，密码为：1
 # English edition
-This is a library management system based on c#, which is divided into two modules: user and administrator
+This is a library management system based on c#, which is divided into two modules: user and administrator,The development tools are visual studio 2022 and SQL Server 2012
 ## User module
 The user module can realize the functions of borrowing and returning books, and can see the specific date and quantity of borrowing books
 In this operating system, the initial user account name is 1001 and the password is 1
